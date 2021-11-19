@@ -34,4 +34,4 @@ Shows the about page, that will talk about who I am and what it does.
 #### Purge Document
 This feature will instantly delete everything in the document. This is for if you want to clean-slate the document and remove everything. This is useful if you would like to quickly remove everything from a document. This is irreversible.
 #### Text Styling
-This sub-menu will show 8 options, that will let you style or unstyle all text in the document. This is currently reversible, just un[   ] it.
+This sub-menu will show 6 options, that will let you style or unstyle all text in the document. This is currently reversible, just un[   ] it.
